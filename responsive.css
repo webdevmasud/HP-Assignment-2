@@ -227,13 +227,13 @@
         "smal1"
         "smal2"
         "smal3"
-        "smal4"; /* Stack all items vertically */
+        "smal4";
     }
 
     & .img_rel {
       & span {
-        font-size: 1.5rem; /* Reduced font size for mobiles */
-        bottom: 2rem; /* Adjusted position for mobiles */
+        font-size: 1.5rem;
+        bottom: 2rem;
       }
     }
   }
@@ -341,5 +341,5 @@
         }
       }
     }
-  }
-} */
+  
+} 
